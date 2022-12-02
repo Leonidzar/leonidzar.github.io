@@ -9,25 +9,3 @@ https://codepen.io/leonid-z
 
 
 
-<style>
-.button_1669948093040 {
-    display: inline-block !important;
-    text-decoration: none !important;
-    background-color: #69af90 !important;
-    color: #000000 !important;
-    border: 4px solid #000000 !important;
-    border-radius: 17px !important;
-    font-size: 29px !important;
-    padding: 15px 40px !important; 
-    transition: all 0.8s ease !important;
-}
-.button_1669948093040:hover{
-    text-decoration: none !important; 
-    background-color: #006089 !important;
-    color: #ffeded !important;
-    border-color: #006089 !important;
-}
-</style>
-<a href="https://github.com/Leonidzar/leonidzar.github.io/blob/main/README.md" class="button_1669948093040" target="_blank">
-  Негры
-</a>
