@@ -1,6 +1,7 @@
+
 # leonidzar.github.io
 
-<link rel="stylesheet" href="./faq/style.css">
+<link rel="stylesheet" href="./css/style.css">
 
 https://codepen.io/leonid-z
 
