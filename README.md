@@ -9,3 +9,6 @@ https://codepen.io/leonid-z
 
 
 
+<a href="https://github.com/Leonidzar/leonidzar.github.io/blob/main/README.md" class="button_1669948093040" target="_blank">
+  Негры
+</a>
