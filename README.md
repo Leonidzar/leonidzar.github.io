@@ -1,4 +1,6 @@
-![негры](https://user-images.githubusercontent.com/115761497/206611629-67c14958-2a07-4b13-a8d3-eaabeffa8527.jpg)
+![Без названия](https://user-images.githubusercontent.com/115761497/206611881-48cb9048-a350-4fdb-a3e0-d4f773d73880.jpg)
+
+
 
 
 # leonidzar.github.io
