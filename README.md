@@ -83,7 +83,7 @@
 https://codepen.io/leonid-z
 
 
-
+{"SiteDomain":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u0434\u043e\u043c\u0435\u043d \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u0431\u0435\u0437 http(s):\/\/ \u0438 www."}
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/37fd7438-9087-40cc-b005-73f90c4b48a5" id="_Lz-UoBYgAag"></iframe></div>
 
