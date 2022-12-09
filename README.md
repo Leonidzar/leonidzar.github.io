@@ -90,6 +90,7 @@
 	</script>
 	<!--/DPDC-->
 	</div><!--Dayspedia.com widget ENDS-->
+<div>
 </div>
 <link rel="stylesheet" href="./css/style.css">
 
