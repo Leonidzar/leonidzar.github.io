@@ -13,7 +13,7 @@
 
 <div class="nav">
 <div>
-<![logo](https://user-images.githubusercontent.com/115761497/206614552-76ca429d-e746-4f2d-a24b-32d4f454c498.jpg)>
+<a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a>
 </div>
 
 <div>
